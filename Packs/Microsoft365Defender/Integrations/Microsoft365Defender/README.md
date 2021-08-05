@@ -312,3 +312,6 @@ Details on how to write queries you can find [here](https://docs.microsoft.com/e
 >|Timestamp|AlertId|Title|Category|Severity|ServiceSource|DetectionSource|AttackTechniques|
 >|---|---|---|---|---|---|---|---|
 >| 2021-04-25T10:11:00Z | alertId | eDiscovery search started or exported | InitialAccess | Medium | Microsoft Defender for Office 365 | Microsoft Defender for Office 365 |  |
+
+#### Upload flow
+ - Test
