@@ -15,6 +15,10 @@
     "useCases": [],
     "keywords": [],
     "dependencies": {
+		"Viper": {
+			"mandatory": true,
+			"display_name": "Viper"
+		},
         "CommonPlaybooks": {
             "mandatory": true,
             "display_name": "Common Playbooks"
